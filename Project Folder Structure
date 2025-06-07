@@ -1,0 +1,8 @@
+next-wave-tech-visualization/
+│
+├── data/
+│   └── next_wave_tech.csv
+│
+├── main_dashboard.py
+├── README.md
+└── requirements.txt
