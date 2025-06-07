@@ -1,0 +1,22 @@
+# Save this as data/next_wave_tech.csv
+Year,Technology,Investment_Billion_USD,Market_Share
+2010,Artificial Intelligence,2,5
+2011,Artificial Intelligence,3,6
+2012,Artificial Intelligence,4,7
+2013,Artificial Intelligence,6,9
+2014,Artificial Intelligence,9,11
+2015,Artificial Intelligence,14,14
+2016,Artificial Intelligence,20,17
+2017,Artificial Intelligence,30,20
+2018,Artificial Intelligence,45,23
+2019,Artificial Intelligence,60,25
+2020,Artificial Intelligence,80,28
+2021,Artificial Intelligence,110,32
+2022,Artificial Intelligence,140,35
+2023,Artificial Intelligence,160,37
+2024,Artificial Intelligence,180,39
+
+2024,Internet of Things,150,20
+2024,Blockchain,100,12
+2024,Renewable Energy,120,18
+2024,5G,80,11
