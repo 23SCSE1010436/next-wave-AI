@@ -1,0 +1,19 @@
+import pandas as pd
+import plotly.express as px
+
+# Load dataset
+df = pd.read_csv('data/tech_trends.csv')
+
+# Filter for AI
+ai_df = df[df['Technology'] == 'Artificial Intelligence']
+
+# Line chart: AI Investment Over Time
+fig = px.line(ai_df, x='Year', y='Investment_Billion_USD',
+              title='AI Investment Over Years',
+              markers=True)
+
+fig.update_layout(xaxis_title='Year',
+                  yaxis_title='Investment (Billion USD)',
+                  template='plotly_dark')
+
+fig.show()
